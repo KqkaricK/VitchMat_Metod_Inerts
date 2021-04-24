@@ -17,11 +17,11 @@ namespace VitchMat_Metod_Inerts
         {
             return (x * x * x) + 8 * x + 13;
         }
-        double yr2(double x) // ур 2
+        double yr2(double x) //ур 2
         {
             return 3 * x + Math.Cos(x) + 1;
         }
-        double yr_1(double x)
+        double yr_1(double x) 
         {
             return -13 / ((x * x + 8));
         }
